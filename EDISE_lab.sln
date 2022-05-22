@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDISE_lab", "EDISE_lab\EDISE_lab.csproj", "{D8225692-F671-4CEC-82A6-F2623E2B929B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDISE_lab.Tests", "EDISE_lab.Tests\EDISE_lab.Tests.csproj", "{BEE7FE0F-5D13-4548-BD4E-1638004FAB78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8225692-F671-4CEC-82A6-F2623E2B929B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8225692-F671-4CEC-82A6-F2623E2B929B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8225692-F671-4CEC-82A6-F2623E2B929B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8225692-F671-4CEC-82A6-F2623E2B929B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE7FE0F-5D13-4548-BD4E-1638004FAB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE7FE0F-5D13-4548-BD4E-1638004FAB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE7FE0F-5D13-4548-BD4E-1638004FAB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE7FE0F-5D13-4548-BD4E-1638004FAB78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ECEFA2F-4665-42FC-976E-19A8184546DE}
+	EndGlobalSection
+EndGlobal

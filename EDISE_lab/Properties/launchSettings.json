@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EDISE_lab": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../test2.h ../../../test.h"
+    }
+  }
+}

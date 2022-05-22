@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EDISE_lab.Utils
+namespace CPPtoCSharpClasses.Utils
 {
     internal static class FileService
     {

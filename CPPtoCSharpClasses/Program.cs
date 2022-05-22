@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using EDISE_lab;
-using EDISE_lab.Utils;
+using CPPtoCSharpClasses;
+using CPPtoCSharpClasses.Utils;
 
 var fileNames = new List<string>();
 

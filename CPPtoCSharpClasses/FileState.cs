@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static EDISE_lab.SyntaxNode;
+using static CPPtoCSharpClasses.SyntaxNode;
 
-namespace EDISE_lab
+namespace CPPtoCSharpClasses
 {
     internal class FileState
     {

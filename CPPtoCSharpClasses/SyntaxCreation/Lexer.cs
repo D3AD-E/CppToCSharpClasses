@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EDISE_lab
+namespace CPPtoCSharpClasses
 {
     internal static class Lexer
     {
-        
         internal static List<SyntaxNode> Tokenize(string line)
         {
             var clearedLine = line.Trim().Replace("\t", " ")

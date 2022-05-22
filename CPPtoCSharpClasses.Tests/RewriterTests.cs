@@ -2,7 +2,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Linq;
 
-namespace EDISE_lab.Tests
+namespace CPPtoCSharpClasses.Tests
 {
     [TestClass]
     public class RewriterTests
